@@ -24,7 +24,7 @@ MagSpoof can be used as a traditional credit card and simply store all of your c
 
 **Source code / schematic:** [https://github.com/samyk/magspoof](https://github.com/samyk/magspoof)
 
------
+-----_
 
 # How magnetic stripes work
 
